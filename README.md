@@ -31,9 +31,14 @@ papers related to research plans, collected from top NLP/ML conferences
 
 *Junxian He, Wojciech Kryscinski, Bryan McCann, Nazneen Rajani, Caiming Xiong.*
 
+**Hardness-guided domain adaptation to recognise biomedical named entities under low-resource scenarios.** EMNLP 2022. [paper](https://aclanthology.org/2022.emnlp-main.271/)
+
+*Ngoc Dang Nguyen, Lan Du, Wray Buntine, Changyou Chen, Richard Beare.*
+
 **MedicalSum: A Guided Clinical Abstractive Summarization Model for Generating Medical Reports from Patient-Doctor Conversations.** EMNLP Findings 2022. [paper](https://aclanthology.org/2022.findings-emnlp.349/)
 
 *George Michalopoulos, Kyle Williams, Gagandeep Singh, Thomas Lin.*
+
 
 ## Feature Attribution 
 
@@ -62,3 +67,7 @@ papers related to research plans, collected from top NLP/ML conferences
 **Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision.** EMNLP Findings 2022. [paper](https://aclanthology.org/2022.findings-emnlp.476/)
 
 *Zifeng Wang, Jimeng Sun.*
+
+**Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records.** NIPS 2022. [paper](https://papers.nips.cc/paper_files/paper/2022/hash/b295b3a940706f431076c86b78907757-Abstract-Conference.html)
+
+*Hongda Sun, Shufang Xie, Shuqi Li, Yuhan Chen, Ji-Rong Wen, Rui Yan.*
