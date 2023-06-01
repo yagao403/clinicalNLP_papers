@@ -40,13 +40,15 @@ papers related to research plans, collected from top NLP/ML conferences
 *George Michalopoulos, Kyle Williams, Gagandeep Singh, Thomas Lin.*
 
 
-## Feature Attribution 
+## Modeling, Representation and Others
 
+**Learning of Cluster-based Feature Importance for Electronic Health Record Time-series.** ICML 2022. [paper](https://proceedings.mlr.press/v162/aguiar22a/aguiar22a.pdf)
 
+*Henrique Aguiar, Mauro Santos, Peter Watkinson, Tingting Zhu.*
 
+**SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals.** ICML 2022. [paper](https://proceedings.mlr.press/v162/kiyasseh22a/kiyasseh22a.pdf)
 
-## Others
-
+*Dani Kiyasseh, Tingting Zhu, David Clifton.*
 
 **Clinical Note Owns its Hierarchy: Multi-Level Hypergraph Neural Networks for Patient-Level Representation Learning.** ACL 2023. [paper](https://arxiv.org/abs/2305.09756)
 
@@ -71,3 +73,11 @@ papers related to research plans, collected from top NLP/ML conferences
 **Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records.** NIPS 2022. [paper](https://papers.nips.cc/paper_files/paper/2022/hash/b295b3a940706f431076c86b78907757-Abstract-Conference.html)
 
 *Hongda Sun, Shufang Xie, Shuqi Li, Yuhan Chen, Ji-Rong Wen, Rui Yan.*
+
+**Diagnosing failures of fairness transfer across distribution shift in real-world medical settings.** NIPS 2022. [paper](https://papers.nips.cc/paper_files/paper/2022/hash/7a969c30dc7e74d4e891c8ffb217cf79-Abstract-Conference.html)
+
+*Jessica Schrouff, Natalie Harris, Sanmi Koyejo, Ibrahim M. Alabdulmohsin, Eva Schnider, Krista Opsahl-Ong, Alexander Brown, Subhrajit Roy, Diana Mincu, Christina Chen, Awa Dieng, Yuan Liu, Vivek Natarajan, Alan Karthikesalingam, Katherine A. Heller, Silvia Chiappa, Alexander D'Amour.*
+
+**ManyDG: Many-domain Generalization for Healthcare Applications.** ICLR 2023. [paper](https://openreview.net/forum?id=lcSfirnflpW)
+
+*Chaoqi Yang, M Brandon Westover, Jimeng Sun.*
