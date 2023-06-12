@@ -42,6 +42,10 @@ papers related to research plans, collected from top NLP/ML conferences
 
 ## Modeling, Representation and Others
 
+**Improving Medical Predictions by Irregular Multimodal Electronic Health Records Modeling.** ICML 2023. [paper](https://arxiv.org/abs/2210.12156)
+
+*Xinlu Zhang, Shiyang Li, Zhiyu Chen, Xifeng Yan, Linda Petzold.*
+
 **Learning of Cluster-based Feature Importance for Electronic Health Record Time-series.** ICML 2022. [paper](https://proceedings.mlr.press/v162/aguiar22a/aguiar22a.pdf)
 
 *Henrique Aguiar, Mauro Santos, Peter Watkinson, Tingting Zhu.*
@@ -81,3 +85,4 @@ papers related to research plans, collected from top NLP/ML conferences
 **ManyDG: Many-domain Generalization for Healthcare Applications.** ICLR 2023. [paper](https://openreview.net/forum?id=lcSfirnflpW)
 
 *Chaoqi Yang, M Brandon Westover, Jimeng Sun.*
+
