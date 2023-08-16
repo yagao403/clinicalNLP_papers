@@ -86,3 +86,9 @@ papers related to research plans, collected from top NLP/ML conferences
 
 *Chaoqi Yang, M Brandon Westover, Jimeng Sun.*
 
+## (Causal) Representation Learning 
+
+**Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond.** TACL 2022. [paper](https://aclanthology.org/2022.tacl-1.66/)
+
+*Amir Feder, et al.*
+
